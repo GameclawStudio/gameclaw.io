@@ -134,6 +134,7 @@ html, body {
 }
 
 #img-feature {
+	-webkit-clip-path(#homeClip);
 	clip-path: url(#homeClip);
 	z-index: 11;
 }
